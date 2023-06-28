@@ -20,5 +20,5 @@ This is a Product Sales Dataset scraped from the Amazon website. Amazon is an Am
 | **ratings**         | *The ratings given by amazon customers of the product*           |
 | **no of ratings**   | *The number of ratings given to this product in amazon shopping* |
 | **discount_price**  | *The discount prices of the product*                             |
-| **actual_price**    | *The actual MRP of the product*                                  |
+| **actual_price**    | *The actual MRP (Maximum Retail Price) of the product*           |
 
