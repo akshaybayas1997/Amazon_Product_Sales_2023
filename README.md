@@ -7,17 +7,16 @@ This is a Product Sales Dataset scraped from the Amazon website. Amazon is an Am
 
 # Data Dictionay
 
-1. name:-	The name of the product
-2. main_category:-	The main category of the product belong
-3. sub_category:-	The main category of the product belong
-4. image:-	The image of the product look like
-5. link:-	The amazon website reference link of the product
-6. ratings:-	The ratings given by amazon customers of the product
-7. no of ratings:-	The number of ratings given to this product in amazon shopping
-8. discount_price:-	The discount prices of the product
-9. actual_price:-	The actual MRP of the product
 
-| Name          | Age | Country     |
-| ------------- | --- | ----------- |
-| **John**      | 25  | *USA*       |
-| *Emily*       | 32  | **Canada**  |
+|       Fields        |                        Descriptions                              |
+| ------------------- | ---------------------------------------------------------------- |
+| **name**            | *The name of the product*                                        |
+| **main_category**   | *The main category of the product belong*                        |
+| **sub_category**    | *The main category of the product belong*                        |
+| **image**           | *The image of the product look like*                             |
+| **link**            | *The amazon website reference link of the product*               |
+| **ratings**         | *The ratings given by amazon customers of the product*           |
+| **no of ratings**   | *The number of ratings given to this product in amazon shopping* |
+| **discount_price**  | *The discount prices of the product*                             |
+| **actual_price**    | *The actual MRP of the product*                                  |
+
